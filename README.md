@@ -17,6 +17,6 @@ Este projeto é uma aplicação simples que permite ao usuário adicionar nomes 
 ## Como Executar
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```bash   
+   git clone https://github.com/ondestawally/jogoAmigoSecreto.git
    ```
